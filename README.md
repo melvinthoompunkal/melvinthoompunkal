@@ -33,7 +33,7 @@ I am a Sophomore **Computer Science** student at **NJIT** with a strong passion 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinthoompunkal&layout=compact&theme=tokyo-night&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![LeetCode](https://leetcode-stats-six.vercel.app/?username=MelvinThoompunkal&theme=tokyo-night&hide_border=true)](https://github.com/MelvinThoompunkal)
 <!--
 **melvinthoompunkal/melvinthoompunkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
