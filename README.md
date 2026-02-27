@@ -10,7 +10,7 @@
 
 ### Hi there, I'm Melvin! 👋
 
-I am a Sophomore **Computer Science** student at **NJIT** with a strong passion for the intersection of **Data, Finance, and Engineering**. My goal is to build scalable data pipelines and predictive models that solve complex financial problems.
+I am a Sophomore **Computer Science** student with a minor in **Business** at **NJIT** with a strong passion for the intersection of **Data, Finance, and Engineering**. My goal is to build scalable data pipelines and predictive models that solve complex financial problems.
 
 - I’m currently exploring **Fintech, Data Engineering, & Machine Learning**
 - I’m currently learning **Predictive Modeling & Financial Mathematics**
@@ -33,7 +33,7 @@ I am a Sophomore **Computer Science** student at **NJIT** with a strong passion 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9BF5&width=435&lines=CS+Sophmore+&+Business+minor+at+NJIT;Aspiring+Data+Scientist;Analyzing+Market+Trends;Debugging+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9BF5&width=435&lines=CS+Sophmore+at+NJIT;Aspiring+Data+Scientist;Analyzing+Market+Trends;Debugging+Code)](https://git.io/typing-svg)
 <!--
 **melvinthoompunkal/melvinthoompunkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
